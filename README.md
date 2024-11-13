@@ -1,6 +1,6 @@
 # Henrique Godinho :small_orange_diamond: [hgod.in/cv](https://hgod.in/cv)
 
-![E-mail](https://img.shields.io/badge/ola%40hgod.in-D14836?style=for-the-badge&logo=gmail&logoColor=fff&link=mailto%3Aola%40hgod.in) ![LinkedIn](https://img.shields.io/badge/hgodinho-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Lattes](https://img.shields.io/badge/lattes-0325402816569874-3365A2?style=for-the-badge&link=http%3A%2F%2Flattes.cnpq.br%2F0325402816569874&labelColor=3365A2) ![Orcid](https://img.shields.io/badge/0000_0003_2063_5401-orcid?style=for-the-badge&logo=orcid&color=A6CE39&logoColor=fff&link=http%3A%2F%2Flattes.cnpq.br%2F0325402816569874)
+[![E-mail](https://img.shields.io/badge/ola%40hgod.in-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:ola@hgod.in) [![LinkedIn](https://img.shields.io/badge/hgodinho-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hgodinho) [![Lattes](https://img.shields.io/badge/lattes-0325402816569874-3365A2?style=for-the-badge&labelColor=3365A2)](http://lattes.cnpq.br/0325402816569874) [![Orcid](https://img.shields.io/badge/0000_0003_2063_5401-orcid?style=for-the-badge&logo=orcid&color=A6CE39&logoColor=fff)](https://orcid.org/0000-0003-2063-5401)
 
 :brazil: *Portuguese (native)*, :gb: *English (advanced)*, :es: *Spanish (intermediate)*
 
