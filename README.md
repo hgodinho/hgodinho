@@ -1,16 +1,16 @@
-## Hi there 👋
+# Henrique Godinho :small_orange_diamond: [hgod.in/cv](https://hgod.in/cv)
 
-<!--
-**hgodinho/hgodinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![E-mail](https://img.shields.io/badge/ola%40hgod.in-D14836?style=for-the-badge&logo=gmail&logoColor=fff&link=mailto%3Aola%40hgod.in) ![LinkedIn](https://img.shields.io/badge/hgodinho-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Lattes](https://img.shields.io/badge/lattes-0325402816569874-3365A2?style=for-the-badge&link=http%3A%2F%2Flattes.cnpq.br%2F0325402816569874&labelColor=3365A2) ![Orcid](https://img.shields.io/badge/0000_0003_2063_5401-orcid?style=for-the-badge&logo=orcid&color=A6CE39&logoColor=fff&link=http%3A%2F%2Flattes.cnpq.br%2F0325402816569874)
 
-Here are some ideas to get you started:
+:brazil: *Portuguese (native)*, :gb: *English (advanced)*, :es: *Spanish (intermediate)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full-stack developer, web designer, and researcher. I have a Professional Master's degree in Information Science - Knowledge Organization (PPGCI-ECA-USP). I'm specialist in Communication and Digital Design from Higher School of Advertising and Marketing (ESPM), and a bachelor degree in Visual Arts from the Belas Artes University Center in São Paulo. With over 12 years of experience in Museum Communication, I work on the development of institutional websites and technological solutions for data and communication management, with focus on the cultural sector.
+
+:round_pushpin: *São Paulo, SP, Brazil*
+
+| type | stack |
+| --- | --- |
+| os | ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) |
+| languages | ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| frameworks | ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Gutenberg](https://img.shields.io/badge/gutenberg-%23077CB2.svg?style=for-the-badge&logo=gutenberg&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| tools | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) |
